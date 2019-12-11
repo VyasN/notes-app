@@ -1,0 +1,20 @@
+{
+  "name": "jspractise",
+  "version": "1.0.0",
+  "description": "js practise work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "n.v",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "chalk": "^3.0.0",
+    "validator": "^12.0.0",
+    "yargs": "^15.0.2"
+  }
+}
